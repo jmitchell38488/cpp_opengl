@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/justin/Work/dev-c/cpp_opengl/SmallProjects/OpenWindow",
+      "program": "/Users/justin/Work/dev-c/cpp_opengl/SmallProjects/OpenWindow/build/Debug/outDebug"
+    }
+  ]
+}
