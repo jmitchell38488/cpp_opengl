@@ -1,0 +1,6 @@
+#ifndef __G_RENDERER_OPENGL10__
+#define __G_RENDERER_OPENGL10__
+
+
+
+#endif // __G_RENDERER_OPENGL10__
